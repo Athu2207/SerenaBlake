@@ -10,7 +10,7 @@ export default function Navbar() {
       </div>
 
       <nav className="fixed top-8 w-full bg-white backdrop-blur-md flex justify-between items-center px-6 py-3 z-[1000] h-[90px]">
-        <div className="ml-16 mt-3">
+        <div className="ml-16 mt-2">
           <Image src="/logo.png" alt="docprof" width={120} height={60} priority />
         </div>
         <ul className="flex gap-6 mt-4 mr-20 text-gray-700 font-medium">
